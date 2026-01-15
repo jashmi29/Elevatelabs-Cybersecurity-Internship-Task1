@@ -1,4 +1,4 @@
-<img width="1312" height="736" alt="image" src="https://github.com/user-attachments/assets/9165d246-3851-4e61-ba05-3c65989dbdf2" />
+<img width="500" height="500" alt="image" src="https://github.com/user-attachments/assets/9165d246-3851-4e61-ba05-3c65989dbdf2" />
 This repository contains my Task 1 PDF on Understanding Cyber Security Basics and Attack Surface.
 The content covers core cybersecurity concepts such as the CIA Triad, types of attackers, attack surfaces, OWASP Top 10, and real-world application mapping.
 
